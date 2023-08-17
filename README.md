@@ -1,10 +1,11 @@
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=haithanh03&show_icons=true&locale=en&layout=compact" alt="haithanh03" /></p>
+
 <img align="right" alt="Dog" width="100" src="https://i.pinimg.com/originals/c1/f4/e7/c1f4e71f085252d9e458bfd191ceb7c3.gif">
 <h1 align="center">Hi 👋, I'm Hai Thanh</h1>
 <h3 align="center">Newbie</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haithanh03&label=Profile%20views&color=0e75b6&style=flat" alt="haithanh03" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **HAUI**
